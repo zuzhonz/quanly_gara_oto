@@ -1,0 +1,64 @@
+{
+    "RECORDS": [
+        {
+            "name": "Trường Đại học Lao động - Xã hội",
+            "latitude": 21.013590430119795,
+            "longitude": 105.79783541709558,
+            "type": 1
+        },
+        {
+            "name": "Bảo tàng Hà Nội",
+            "latitude": 21.01487238542634,
+            "longitude": 105.77706439034048,
+            "type": 1
+        },
+        {
+            "name": "Trường Đại học Thủy lợi",
+            "latitude": 21.008542624000466,
+            "longitude": 105.81774813695995,
+            "type": 1
+        },
+        {
+            "name": "Trường Đại Học Y Hà Nội",
+            "latitude": 21.003735030814095,
+            "longitude": 105.82564456035446,
+            "type": 1
+        },
+        {
+            "name": "Trường Đại Học Kinh Tế Quốc Dân (NEU)",
+            "latitude": 21.004354664400744,
+            "longitude": 105.84259261506426,
+            "type": 1
+        },
+        {
+            "name": "Trường Đại học Hà Nội",
+            "latitude": 20.99002056568817,
+            "longitude": 105.79475461149057,
+            "type": 1
+        },
+        {
+            "name": "Ga Phùng Khoang",
+            "latitude": 20.985904564586612,
+            "longitude": 105.7935113653395,
+            "type": 1
+        },
+        {
+            "name": "Bưu điện Hà Đông",
+            "latitude": 20.975255623037363,
+            "longitude": 105.78125357174282,
+            "type": 1
+        },
+        {
+            "name": "Bệnh viện Quân Y 103",
+            "latitude": 20.968893650401274,
+            "longitude": 105.79163676362873,
+            "type": 1
+        },
+        {
+            "name": "Trường Cao đẳng Công Nghệ Bách Khoa Hà Nội",
+            "latitude": 21.023489991647057,
+            "longitude": 105.77254793013157,
+            "type": 1
+        }
+    ]
+}
